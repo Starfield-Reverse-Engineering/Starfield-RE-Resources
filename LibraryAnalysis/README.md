@@ -8,7 +8,7 @@ Directory structure is like this:
    - \<version_number_1.0.0\>
      - lib - *Built binaries go here*
        - Release - *Release version*
-       - RelWithDebInfo - *Release with Debug Info (Make sure to include the name of the 
+       - RelWithDebInfo - *Release with Debug Info (Make sure to include the pdb generated)*
      - include - *Header files that are installed when using* `cmake install`
      - src - *If the source code is not publicly available, include a tarballed/zip file of the source you compiled here* 
      - README.md - *Specify URL to the source code @ the tagged version and any compiling/build info necessary*
