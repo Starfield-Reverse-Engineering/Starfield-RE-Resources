@@ -6,7 +6,10 @@ Directory structure is like this:
 
  - libname
    - \<version_number_1.0.0\>
-    - 
+     - lib
+     - include
+     - src
+     - bin *(if applicable)*
    - \<version_number_2.0.0\>
    - \[etc...\]
    - README.md - Specify here which version is in use with which Starfield version
